@@ -1,6 +1,7 @@
 // in this prorgam there is the use of pair in the c++
 
-#include <bits/stdc++.h>
+// #include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int main() {
